@@ -1,5 +1,5 @@
 # SGCS-CSE4170
-Basic Computer Grapics 2025 Spring Semester
+Basic Computer Graphics 2025 Spring Semester
 
 <br>
   <h3>Homework 1 - GLUT 툴킷 사용법 연습<h3/>
